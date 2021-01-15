@@ -1,5 +1,5 @@
 // sorting the parameters for the search
-const clientId = 'client_id=6SO4p5Y8L1s_LLw4s-n8QwbQCIQlO9S65GMpylGnbIg';
+const clientId = 'client_id= YOUR CLIENT ID';
 const perPage = 'per_page=20';
 const contentFilter = 'content_filter=high';
 const form = document.getElementById('myForm');
